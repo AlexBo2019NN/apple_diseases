@@ -1,1 +1,1 @@
-# apple_diseases
+# apple diseases dataset
